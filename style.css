@@ -1,0 +1,39 @@
+body {
+    font-family: 'Gabriela', serif;
+    color: black;
+    font-weight: bolder;
+    background-color: coral;
+}
+
+.header_div {
+    background: white;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: #ce2700;
+    text-align: center;
+}
+
+.header_div p {
+    color: gray;
+    font-family: 'Gabriela', serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Montagu Slab', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+#copyright_footer {
+    font-family: 'Courgette', cursive;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: violet;
+    line-height: 4;
+    text-align: center;
+}
